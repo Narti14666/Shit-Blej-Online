@@ -1,0 +1,119 @@
+body {
+
+    font-family: Arial, sans-serif;
+  
+    margin: 0;
+  
+    padding: 0;
+  
+    background-color: #f9f9f9;
+  
+    color: #333;
+  
+  }
+  
+  
+  
+  a {
+  
+    text-decoration: none;
+  
+    color: #333;
+  
+  }
+  
+  
+  
+  /* Header */
+  
+  .header {
+  
+    display: flex;
+  
+    justify-content: space-between;
+  
+    align-items: center;
+  
+    background-color: #007bff;
+  
+    padding: 20px;
+  
+    color: white;
+  
+  }
+  
+  
+  
+  .header .logo {
+  
+    font-size: 24px;
+  
+    font-weight: bold;
+  
+  }
+  
+  
+  
+  .header .navbar a {
+  
+    margin-left: 15px;
+  
+    color: white;
+  
+    font-weight: bold;
+  
+  }
+  
+  
+  
+  /* Seksioni i kërkimit */
+  
+  .search-section {
+  
+    text-align: center;
+  
+    padding: 50px 20px;
+  
+    background-color: #f1f1f1;
+  
+  }
+  
+  
+  
+  .search-section h1 {
+  
+    margin-bottom: 20px;
+  
+  }
+  
+  
+  
+  .search-form input {
+  
+    padding: 10px;
+  
+    width: 300px;
+  
+    border: 1px solid #ccc;
+  
+    border-radius: 5px;
+  
+  }
+  
+  
+  
+  .search-form button {
+  
+    padding: 10px 20px;
+  
+    background-color: #007bff;
+  
+    color: white;
+  
+    border: none;
+  
+    border-radius: 5px;
+  
+    cursor: pointer;
+  
+  }
